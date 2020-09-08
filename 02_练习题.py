@@ -15,9 +15,9 @@ print("*"*18)
 m= int(input("请输入一个数值："))
 def os(m):
     if m%2 == 0:
-        return print(True)
+        print(True)
     else:
-        return print(False)
+        print(False)
 os(m)
 """
 
